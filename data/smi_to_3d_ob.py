@@ -10,6 +10,7 @@ builder = ob.OBBuilder()
 
 not_at_end = converter.ReadFile(mol, "aminoacids.smi")
 while not_at_end:
+    mol.AddHydrogens()
     builder.Build(mol)
     name = mol.GetTitle()
     for format in formats:
