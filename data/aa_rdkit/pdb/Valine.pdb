@@ -1,0 +1,28 @@
+COMPND    Valine
+HETATM    1  C1  UNL     1       1.172   0.861  -0.811  1.00  0.00           C  
+HETATM    2  C2  UNL     1       0.720  -0.481  -0.307  1.00  0.00           C  
+HETATM    3  C3  UNL     1       1.532  -0.811   0.924  1.00  0.00           C  
+HETATM    4  C4  UNL     1      -0.756  -0.548  -0.028  1.00  0.00           C  
+HETATM    5  C5  UNL     1      -1.200   0.423   0.991  1.00  0.00           C  
+HETATM    6  O1  UNL     1      -0.631   0.455   2.113  1.00  0.00           O  
+HETATM    7  O2  UNL     1      -2.229   1.336   0.806  1.00  0.00           O  
+HETATM    8  N1  UNL     1      -1.506  -0.455  -1.250  1.00  0.00           N  
+HETATM    9  H1  UNL     1       0.618   1.152  -1.746  1.00  0.00           H  
+HETATM   10  H2  UNL     1       2.251   0.752  -1.076  1.00  0.00           H  
+HETATM   11  H3  UNL     1       1.126   1.653  -0.041  1.00  0.00           H  
+HETATM   12  H4  UNL     1       0.937  -1.225  -1.100  1.00  0.00           H  
+HETATM   13  H5  UNL     1       0.930  -1.456   1.603  1.00  0.00           H  
+HETATM   14  H6  UNL     1       2.461  -1.344   0.639  1.00  0.00           H  
+HETATM   15  H7  UNL     1       1.836   0.104   1.475  1.00  0.00           H  
+HETATM   16  H8  UNL     1      -0.947  -1.565   0.395  1.00  0.00           H  
+HETATM   17  H9  UNL     1      -2.171   2.139   0.200  1.00  0.00           H  
+HETATM   18  H10 UNL     1      -1.980  -1.348  -1.514  1.00  0.00           H  
+HETATM   19  H11 UNL     1      -2.164   0.358  -1.274  1.00  0.00           H  
+CONECT    1    2    9   10   11
+CONECT    2    3    4   12
+CONECT    3   13   14   15
+CONECT    4    5    8   16
+CONECT    5    6    6    7
+CONECT    7   17
+CONECT    8   18   19
+END
