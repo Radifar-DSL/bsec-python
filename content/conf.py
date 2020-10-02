@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Basic Software Engineering for Chemistry using Python'
+project = 'Basic Software Engineering for Chemistry Using Python'
 copyright = '2020, Muhammad Radifar'
 author = 'Muhammad Radifar'
 github_user = 'radifar-dsl'

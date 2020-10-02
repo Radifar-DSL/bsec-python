@@ -1,8 +1,8 @@
-LESSON NAME
-===========
+Basic Software Engineering for Chemistry Using Python
+=====================================================
 
 Intro
-
+-----
 
 
 .. prereq::
